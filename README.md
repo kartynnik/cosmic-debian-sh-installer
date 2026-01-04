@@ -16,7 +16,7 @@ I see it working on my Debian Trixie notebook.
 
 To download packages and install
 ```sh
-sh setup.sh --install
+bash setup.sh --install
 ```
 
 ## License
